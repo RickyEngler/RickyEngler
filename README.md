@@ -21,4 +21,8 @@ Técnologias que uso constantemente:
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<picture aligne="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RickyEngler/RickyEngler/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RickyEngler/RickyEngler/output/github-contribution-grid-snake-dark.svg">
+  <img aligne="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RickyEngler/RickyEngler/output/github-contribution-grid-snake.svg">
+</picture>
