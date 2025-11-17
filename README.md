@@ -1,8 +1,6 @@
 ### Olá! Eu me chamo Augusto Engler 🫡
 - Aluno de Análise e Desenvolvimento de Sistemas | UFBRA 📚
 - Full-Stack Developer 👨🏽‍💻
-<br/>
-<br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-engler-002972304/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Rickyz)
@@ -11,7 +9,6 @@
 
 ![Ricky GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyEngler&show_icons=true&theme=dark)
 
-<br/>
 <strong>Técnologias que uso constantemente:</strong>
 <div style="display: inline_block">
 Ferramentas e Metodologias:<br/>
